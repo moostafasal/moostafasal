@@ -59,9 +59,7 @@ Currently learning Angular and OutSystems to broaden my technical scope and deli
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moostafasal&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=moostafasal&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
+
 
 ---
 
