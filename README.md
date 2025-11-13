@@ -65,6 +65,14 @@ Currently learning Angular and OutSystems to broaden my technical scope and deli
 
 ### 🚀 Featured Projects
 
+
+
+#### 🎓 [EduNex - Learning Management System](https://github.com/moostafasal/EdunexBack)
+Full-stack LMS with **ASP.NET Core 8**, **Angular**, and **Docker** deployment.
+- ✅ 3-Tier architecture with Repository & Unit of Work patterns
+- ✅ CI/CD with GitHub Actions
+- ✅ Deployed on AWS EC2
+
 #### 🏥 [Veseta - Appointment Booking System](https://github.com/moostafasal/Veseta-API)
 Healthcare booking platform with **ASP.NET Core 7**, **EF Core**, and secure role-based authentication.
 - ✅ RESTful API with clean architecture
@@ -83,11 +91,7 @@ Fully serverless image processing pipeline on **AWS**.
 - ✅ S3 storage & DynamoDB for metadata
 - ✅ REST API for image retrieval
 
-#### 🎓 [EduNex - Learning Management System](https://github.com/moostafasal/EdunexBack)
-Full-stack LMS with **ASP.NET Core 8**, **Angular**, and **Docker** deployment.
-- ✅ 3-Tier architecture with Repository & Unit of Work patterns
-- ✅ CI/CD with GitHub Actions
-- ✅ Deployed on AWS EC2
+
 
 ---
 
