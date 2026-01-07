@@ -1,17 +1,15 @@
 # Hi there, I'm Mostafa Salem 👋
 
-### Backend Software Engineer | .NET, Angular, AWS, DevOps
+### Backend Software Engineer | .NET & Java | Cloud Fundamentals
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Backend Software Engineer with experience building secure and scalable APIs using .NET and Java (Spring Boot).
 
-I'm a Backend Developer passionate about building secure, scalable, and high-performance APIs using .NET.
-At TKMiND, I work with K2 Five to develop enterprise apps and automate workflows.
-Currently learning Angular and OutSystems to broaden my technical scope and deliver end-to-end solutions.
+Currently working on enterprise backend systems, contributing to service development, integration, and production-ready APIs.
 
+Interested in clean architecture, system design, and building maintainable backend services.
 
-🔭 **Currently working on:** Designing microservices architectures using Docker and Kubernetes 
-🌱 **Learning:** AWS , OutSystems , Angular, Advanced DevOps  
-💬 **Ask me about:** .NET Core, API Development, OutSystems, Low-Code Development, Cloud Computing, Docker, CI/CD  
 📫 **Reach me:** mostafaasalem2@gmail.com  
 
 ---
