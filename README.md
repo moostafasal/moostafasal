@@ -69,7 +69,7 @@ Interested in clean architecture, system design, and building maintainable backe
 Full-stack LMS with **ASP.NET Core 8**, **Angular**, and **Docker** deployment.
 - ✅ 3-Tier architecture with Repository & Unit of Work patterns
 - ✅ CI/CD with GitHub Actions
-- ✅ Deployed on AWS EC2
+- ✅ Deployed on AWS
 
 #### 🏥 [Veseta - Appointment Booking System](https://github.com/moostafasal/Veseta-API)
 Healthcare booking platform with **ASP.NET Core 7**, **EF Core**, and secure role-based authentication.
