@@ -95,9 +95,9 @@ Fully serverless image processing pipeline on **AWS**.
 
 ### 🏆 Certifications & Training
 
-- **OutSystems Developer School Bootcamp** - Building enterprise low-code applications
 - **AWS Certified Cloud Practitioner** - [View Credential](https://www.credly.com/badges/your-badge-id)
 - **ITI Full Stack Web Development using .NET** - Intensive 4-month program
+- **OutSystems Developer School Bootcamp** - Building enterprise low-code applications
 
 ---
 
